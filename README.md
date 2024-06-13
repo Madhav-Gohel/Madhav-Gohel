@@ -11,7 +11,6 @@ Skills: Python / Java / PHP / Node / C++ / Android.
 
 [<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-black-and-white-logos/1000/2018_social_media_popular_app_logo_linkedin-512.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/madhav-gohel/)  [<img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-round-icon.png' alt='medium' height='40'>](https://madhavgohel.medium.com/)  
 
-![GitHub metrics](https://metrics.lecoq.io/Madhav-Gohel)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhav-Gohel&show_icons=true&theme=dark&hide_border=true)
 
