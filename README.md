@@ -1,5 +1,4 @@
 #### A passionate software developer from India
-![A passionate software developer from India](https://raw.githubusercontent.com/Madhav-Gohel/Madhav-Gohel/main/github-header-image.png)
 
 I'm a straightforward but jovial computer geek. skilled with a wide range of programming languages and tools, such as Python, Java, PHP, Node, C++, and Android.
 
