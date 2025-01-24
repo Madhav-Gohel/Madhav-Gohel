@@ -12,8 +12,4 @@ Skills: Python / Java / PHP / Node / C++ / Android.
 
 <!--- ![Metrics](https://metrics.lecoq.io/Madhav-Gohel?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta)
 --->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhav-Gohel&show_icons=true&theme=transparent&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Madhav-Gohel&theme=transparent&hide_current_streak=true)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav-Gohel&layout=pie&theme=transparent&hide_border=true)
