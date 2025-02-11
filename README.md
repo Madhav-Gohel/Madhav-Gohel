@@ -1,8 +1,23 @@
-#### A passionate software developer from India
+### Hi there! 👋 I'm Madhav Gohel  
+🚀 **Tech Enthusiast | Backend Developer | AI Explorer**  
 
-I'm a straightforward but jovial computer geek. skilled with a wide range of programming languages and tools, such as Python, Java, PHP, Node, C++, and Android.
+I'm currently pursuing a **B.Tech in Information Technology** at Charusat University with a solid foundation in **data structures, algorithms, and web development**. My expertise lies in building scalable **backend systems**, integrating **LLMs**, and creating innovative **AI-powered applications**.  
 
-Skills: Python / Java / PHP / Node / C++ / Android.
+### 🔍 What I’m Working On:  
+- **AI Agents OS** – Developing autonomous AI agents for seamless human-computer interaction.  
+- **Urban Guide** – An AI-powered city assistant using LLMs, RAG, and vector databases for real-time information.  
+
+### 💡 Skills & Tech Stack:  
+**Languages:** Python, Java, JavaScript, C++  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Frameworks:** Flask, Docker, Git  
+
+### 🌟 Recent Highlights:  
+- Finalist at **SSIP Gujarat Hackathon 2022**  
+- **Oracle Cloud Infrastructure AI Foundations Associate** certified  
+- Volunteered as a coordinator for **Smart India Hackathon 2024** and **AWS SCD**  
+
+Feel free to explore my projects and connect! 😊  
 
 - 📫 How to reach me:
   - Email : madhavgohel2@gmail.com 
