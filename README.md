@@ -15,7 +15,7 @@ I'm currently pursuing a **B.Tech in Information Technology** at Charusat Univer
 ### 🌟 Recent Highlights:  
 - Finalist at **SSIP Gujarat Hackathon 2022**  
 - **Oracle Cloud Infrastructure AI Foundations Associate** certified  
-- Volunteered as a coordinator for **Smart India Hackathon 2024** and **AWS SCD**  
+- Volunteered as a coordinator for **Smart India Hackathon 2024** and **AWS Student Community Day**  
 
 Feel free to explore my projects and connect! 😊  
 
