@@ -4,7 +4,7 @@
 I'm currently pursuing a **B.Tech in Information Technology** at Charusat University with a solid foundation in **data structures, algorithms, and web development**. My expertise lies in building scalable **backend systems**, integrating **LLMs**, and creating innovative **AI-powered applications**.  
 
 ### 🔍 What I’m Working On:  
-- **AI Agents OS** – Developing autonomous AI agents for seamless human-computer interaction.  
+- **Agentic AI OS** – Developing autonomous AI agents for seamless human-computer interaction.  
 - **Urban Guide** – An AI-powered city assistant using LLMs, RAG, and vector databases for real-time information.  
 
 ### 💡 Skills & Tech Stack:  
