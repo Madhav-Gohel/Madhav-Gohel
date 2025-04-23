@@ -10,7 +10,7 @@ I'm currently pursuing a **B.Tech in Information Technology** at Charusat Univer
 ### 💡 Skills & Tech Stack:  
 **Languages:** Python, Java, JavaScript, C++  
 **Databases:** MySQL, PostgreSQL, MongoDB  
-**Frameworks:** Flask, Docker, Git  
+**Dev Tools:** Docker, Git  
 
 ### 🌟 Recent Highlights:  
 - Finalist at **SSIP Gujarat Hackathon 2022**  
