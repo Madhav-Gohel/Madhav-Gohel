@@ -17,7 +17,9 @@ I'm currently pursuing a **B.Tech in Information Technology** at Charusat Univer
 - **Oracle Cloud Infrastructure AI Foundations Associate** certified  
 - Volunteered as a coordinator for **Smart India Hackathon 2024** and **AWS Student Community Day**  
 
-Feel free to explore my projects and connect! 😊  
+Feel free to explore my projects and connect! 😊 
+
+You can get my Latest Resume [here](https://drive.google.com/drive/folders/1nxQpeb4ePDhsO_JVkCfU-Qhdf7GX3_Dg?usp=sharing).
 
 - 📫 How to reach me:
   - Email : madhavgohel2@gmail.com 
