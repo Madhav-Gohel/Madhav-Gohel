@@ -15,11 +15,11 @@ I'm currently pursuing a **B.Tech in Information Technology** at Charusat Univer
 ### 🌟 Recent Highlights:  
 - Finalist at **SSIP Gujarat Hackathon 2022**  
 - **Oracle Cloud Infrastructure AI Foundations Associate** certified  
-- Volunteered as a coordinator for **Smart India Hackathon 2024** and **AWS Student Community Day**  
+- Volunteered as a coordinator for **OdooxCharusat Hackthon '25**, **Smart India Hackathon 2024** and **AWS Student Community Day 2024**
 
 Feel free to explore my projects and connect! 😊 
 
-You can get my Latest Resume [here](https://drive.google.com/drive/folders/1nxQpeb4ePDhsO_JVkCfU-Qhdf7GX3_Dg?usp=sharing).
+You can get my Resume [here](https://drive.google.com/drive/folders/1nxQpeb4ePDhsO_JVkCfU-Qhdf7GX3_Dg?usp=sharing).
 
 - 📫 How to reach me:
   - Email : madhavgohel2@gmail.com 
