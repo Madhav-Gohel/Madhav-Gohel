@@ -5,7 +5,15 @@ I'm currently pursuing a **B.Tech in Information Technology** at Charusat Univer
 
 ### 🔍 What I’m Working On:  
 - **Agentic AI OS** – Developing autonomous AI agents for seamless human-computer interaction.  
-- **Urban Guide** – An AI-powered city assistant using LLMs, RAG, and vector databases for real-time information.  
+- **Urban Guide** – An AI-powered city assistant using LLMs, RAG, and vector databases for real-time information.
+
+### 🚀 Projects
+| Project Name                  | Tech Stack                           | Description                                                                                                                            | Link                                                  |
+| ----------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **Agentic AI OS** *(Ongoing)* | Python, Ollama, Vector DB, LLMs, MCP | Redefining human-computer interaction using autonomous AI agents for automation, education, and content creation via natural language. | –                                                            |
+| **Urban Guide**               | Python, Ollama, Vector DB, LLMs      | AI-powered city assistant offering real-time, multilingual info on city services and landmarks using RAG and agents.                   | [Repo](https://github.com/Madhav-Gohel/urban-guide-notebook) |
+| **AWS Gen AI Avatar**         | Python, Flask, SageMaker, AWS        | AI Avatar Generator using Stable Diffusion models on AWS to convert user photos into digital avatars.                                  | [Repo](https://github.com/VasuBhimani/AWS_Booth)             |
+| **Class Link**                | Python, Flask, PostgreSQL, Bootstrap | E-Learning platform for tuition centers featuring study materials, profiles, and admin tools.                                          | [Repo](https://github.com/Madhav-Gohel/classlink)            |
 
 ### 💡 Skills & Tech Stack:  
 **Languages:** Python, Java, JavaScript, C++  
